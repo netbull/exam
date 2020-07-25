@@ -39,3 +39,6 @@ Pretty much it's up to you.
 ## Hint
 There is no "right" or "wrong" solution here. Just do whatever you think is proper solution.
 Extra points for optimizing the `assets/img/bg.jpg` for web.
+
+## Licence
+- background image [Designed by vvstudio / Freepik](http://www.freepik.com)
